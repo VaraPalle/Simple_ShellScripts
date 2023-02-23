@@ -1,9 +1,9 @@
 #!/bin/bash
-# Description: 
-# Author:
-# Date Created:
-# Version: 
-# Date Modified:
+# Description: SimpleShellscript
+# Author:varaprasad
+# Date Created:23-02-2023
+# Version: v1
+# Date Modified:23-02-2023
 echo "Hello Varaprasad"
 echo "How are you"
 
