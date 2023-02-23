@@ -1,0 +1,14 @@
+#!/bin/bash
+# Description: Capture system information
+# Author: varaprasad <varactcb6@gmail.com>
+# Date Created: 23-02-2023
+# Version: V1
+# Date Modified:
+set -x
+df -h
+free -h
+pwd
+uname
+whoami
+ls -l
+set +x
