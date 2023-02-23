@@ -1,0 +1,14 @@
+#!bin/bash
+#Description:Simple ShellScript
+#Author:Varaprasad
+#Created Date:02-23-2023
+#Version:8.1
+#Date Modified:02-23-2023
+echo "Hello Please enter your name: "
+read name
+echo "Hello $name, Welcome to Linux classes"
+echo "Please enter the course you're willing to learn"
+read course
+echo "You are interested in $course course"
+echo "Hello Please enter you age"
+echo "Hello Please enter your Qualification"
